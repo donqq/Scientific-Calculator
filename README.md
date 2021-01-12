@@ -3,9 +3,9 @@ Scientific Calculator in VB.NET
 
 A Scientific calculator developed in vb.net. This requires the following libraries in binary format.
 
-* https://github.com/stormyqq/Unit-conversion
-* https://github.com/stormyqq/Sigma-and-nCr
-* https://github.com/stormyqq/Temperature-conversion-library
+* https://github.com/donqq/Unit-conversion
+* https://github.com/donqq/Sigma-and-nCr
+* https://github.com/donqq/Temperature-conversion-library
 
 How to Compile and Use
 ---------
