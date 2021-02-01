@@ -7,9 +7,9 @@ v0.1 Alpha
 # Requirements 
 - Visual Studio Community or higher edition (2017 is recommended)
 - A Windows PC (Windows 7 or above is recommend)
-- Following libraries in executable format. 
-https://github.com/donqq/Unit-conversion
-https://github.com/donqq/Sigma-and-nCr
+- Following libraries in executable format. <br/>
+https://github.com/donqq/Unit-conversion <br/>
+https://github.com/donqq/Sigma-and-nCr <br/>
 https://github.com/donqq/Temperature-conversion-library  
 
 # Features
