@@ -17,7 +17,8 @@ https://github.com/donqq/Temperature-conversion-library  
 - Trigonometric functions (Sin, Cos, Tan etc..)
 - Unit conversions (speed, length, pressure, power)
 - Numeral system support (binary, octal, hexa, decimal)
-- Temperature conversion- Logarithm calculations
+- Temperature conversion
+- Logarithm calculations
 
 # Installation
 1. Download, and install visual studio 2015
