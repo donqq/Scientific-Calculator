@@ -33,7 +33,7 @@ VB.NET
 Simple Non Code License (SNCL)
 
 # Author
-Badde Liyanage Don Dilanga, 2020/October, github@dilanga.com. Sri Lanka LK.
+Badde Liyanage Don Dilanga, 2018/October, github@dilanga.com. Sri Lanka LK.
 
 # Screenshots
 <img src='SAITMCalculator/Resources/SAITMCalculator_7DCGZMmBF6.png' width='20%'>
