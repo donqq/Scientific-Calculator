@@ -16,7 +16,7 @@ https://github.com/donqq/Temperature-conversion-library  
 - Basic arithmetic operations (add, subtract, divide, multiply etc..)
 - Trigonometric functions (Sin, Cos, Tan etc..)
 - Unit conversions (speed, length, pressure, power)
-- Numeral system support (binary, octal, hexa, decimal)
+- Numeral system support (binary, octal, hexa, decimal)
 - Temperature conversion- Logarithm calculations
 
 # Installation
